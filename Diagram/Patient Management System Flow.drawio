@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="s8l9gP1K_i7XSDvYWhMX">
-    <mxGraphModel dx="2755" dy="1248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1574" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k1hpQbWlHPRElY7LHdlK-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#17272E);" value=" " vertex="1">
-          <mxGeometry height="680" width="1039" x="250" y="707" as="geometry" />
+          <mxGeometry height="714" width="1039" x="250" y="673" as="geometry" />
         </mxCell>
         <mxCell id="k1hpQbWlHPRElY7LHdlK-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#17272E);" value="" vertex="1">
           <mxGeometry height="440" width="670" x="250" y="170" as="geometry" />
@@ -203,11 +203,11 @@
         <mxCell id="k1hpQbWlHPRElY7LHdlK-110" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#071B21);" value="Patient&lt;div&gt;Service DB&lt;/div&gt;" vertex="1">
           <mxGeometry height="94" width="107" x="1104" y="832" as="geometry" />
         </mxCell>
-        <mxCell id="k1hpQbWlHPRElY7LHdlK-112" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;RDS&lt;/span&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="37" width="58" x="1067" y="753" as="geometry" />
+        <mxCell id="k1hpQbWlHPRElY7LHdlK-112" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;RDS (Private Subnet)&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="37" width="241" x="970" y="749" as="geometry" />
         </mxCell>
-        <mxCell id="k1hpQbWlHPRElY7LHdlK-113" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;ECS Cluster&lt;/span&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="37" width="144" x="553.5" y="749" as="geometry" />
+        <mxCell id="k1hpQbWlHPRElY7LHdlK-113" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;ECS Cluster (Private Subnet)&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="37" width="317.5" x="476.75" y="746" as="geometry" />
         </mxCell>
         <mxCell id="k1hpQbWlHPRElY7LHdlK-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#0E3B45);" value="" vertex="1">
           <mxGeometry height="140" width="244" x="590" y="990" as="geometry" />
@@ -286,6 +286,9 @@
               <mxPoint x="1025.47" y="791.94" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k1hpQbWlHPRElY7LHdlK-125" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Internet&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="37" width="94.5" x="737.75" y="687" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
